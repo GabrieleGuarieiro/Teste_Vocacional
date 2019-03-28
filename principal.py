@@ -4,3 +4,4 @@
 // seguir o guia de estilo PEP8 (padronizacao do codigo)              //
 // varaveis, funcoes, arquivos... escritos em portugues               //
 ////////////////////////////////////////////////////////////////////////
+x = 1
